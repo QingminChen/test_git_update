@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 豪雨 change change changelocal changelocal
 大風 change change changelocal changelocal
 寒い change change changelocal changelocal
+=======
+豪雨 change change changelocal change
+大風 change change changelocal change
+寒い change change changelocal change
+>>>>>>> 35382f7f5b73c9edd288cc00d3aaf5533874d7ac
